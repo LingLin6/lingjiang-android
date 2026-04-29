@@ -1,0 +1,9 @@
+*.aar binary
+*.onnx binary
+*.apk binary
+*.wav binary
+*.m4a binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
